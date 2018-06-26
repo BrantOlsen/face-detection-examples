@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data/
+dlib/shape_predictor_5_face_landmarks.dat
+dlib/dlib_face_recognition_resnet_model_v1.dat
