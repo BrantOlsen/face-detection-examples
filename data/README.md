@@ -1,0 +1,1 @@
+Add folders here with images to train. The folder names will be the image labels.
