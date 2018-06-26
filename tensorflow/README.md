@@ -13,6 +13,6 @@ These files encapsulate logic from https://github.com/davidsandberg/facenet for 
 
 
 **Notes**
-- Must install tensorflow-gpu to get good performance.
+- Must install tensorflow-gpu to get good performance which means NVIDIA GPUs only.
 - Pre-trained model allowed for accurate results with only a few images of each label.
 - Code is low enough level that it allows you to see the nuts and bolts of the learning algorithm.
