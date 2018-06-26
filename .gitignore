@@ -105,3 +105,7 @@ venv.bak/
 data/*/
 dlib/shape_predictor_5_face_landmarks.dat
 dlib/dlib_face_recognition_resnet_model_v1.dat
+opencv/haarcascade_eye.xml
+opencv/haarcascade_frontalface_alt2.xml
+data/dlib_face_recognizer.pkl
+data/face_recognizer.yml
