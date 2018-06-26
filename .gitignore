@@ -109,3 +109,7 @@ opencv/haarcascade_eye.xml
 opencv/haarcascade_frontalface_alt2.xml
 data/dlib_face_recognizer.pkl
 data/face_recognizer.yml
+data/classifier.pkl
+tensorflow/*.pb
+tensorflow/model-*
+tensorflow/shape_predictor_5_face_landmarks.dat
